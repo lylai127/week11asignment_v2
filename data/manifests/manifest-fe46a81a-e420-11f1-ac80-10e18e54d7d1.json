@@ -1,0 +1,50 @@
+{
+    "version": "0.0.112",
+    "plot_id": "fe46a81a-e420-11f1-ac80-10e18e54d7d1",
+    "output_directory": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output",
+    "layouts": {
+        "umap": {
+            "variants": [
+                {
+                    "n_neighbors": 15,
+                    "min_dist": 0.01,
+                    "layout": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\layouts\\umap-fe46a81a-e420-11f1-ac80-10e18e54d7d1.json",
+                    "jittered": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\layouts\\umap-jittered-fe46a81a-e420-11f1-ac80-10e18e54d7d1.json"
+                }
+            ]
+        },
+        "alphabetic": {
+            "layout": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\layouts\\grid-fe46a81a-e420-11f1-ac80-10e18e54d7d1.json"
+        },
+        "grid": {
+            "layout": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\layouts\\rasterfairy-fe46a81a-e420-11f1-ac80-10e18e54d7d1.json"
+        },
+        "categorical": false,
+        "date": false,
+        "geographic": null,
+        "custom": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.1,
+        "max": 0.12,
+        "scatter": 0.020000000000000004,
+        "initial": 0.020000000000000004,
+        "categorical": 0.06,
+        "geographic": 0.0025000000000000005
+    },
+    "imagelist": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\imagelists\\imagelist-fe46a81a-e420-11f1-ac80-10e18e54d7d1.json",
+    "atlas_dir": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\atlases\\fe46a81a-e420-11f1-ac80-10e18e54d7d1",
+    "metadata": false,
+    "default_hotspots": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\hotspots\\hotspot-fe46a81a-e420-11f1-ac80-10e18e54d7d1.json",
+    "custom_hotspots": "C:/Users/lai_l/Desktop/CUHK/ANTH5323/Weekly Assignment/Week 11/B24_PixPlot_Trial_02/output\\data\\hotspots\\user_hotspots.json",
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "creation_date": "19-November-2026-21:57:57"
+}

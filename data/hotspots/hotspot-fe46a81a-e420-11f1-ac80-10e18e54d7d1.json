@@ -1,0 +1,151 @@
+[
+  {
+    "images": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "img": "Panda_1.jpeg",
+    "layout": "umap",
+    "label": "Cluster 1 - Panda"
+  },
+  {
+    "images": [
+      4,
+      6,
+      11,
+      17,
+      18,
+      19,
+      24,
+      25,
+      26,
+      27,
+      32,
+      33,
+      34,
+      35
+    ],
+    "img": "B12P05.jpg",
+    "layout": "umap",
+    "label": "Cluster 2 - Village Landscape"
+  },
+  {
+    "images": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      67
+    ],
+    "img": "B24P24.jpg",
+    "layout": "umap",
+    "label": "Cluster 3 - City View"
+  },
+  {
+    "images": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      66
+    ],
+    "img": "B24P08.jpg",
+    "layout": "umap",
+    "label": "Cluster 4 - Coastal Landscape"
+  },
+  {
+    "images": [
+      0,
+      28,
+      29,
+      30,
+      31,
+      38,
+      42,
+      43
+    ],
+    "img": "B12P01.jpg",
+    "layout": "umap",
+    "label": "Cluster 5 - Green Pathways"
+  },
+  {
+    "images": [
+      37,
+      39,
+      40,
+      41
+    ],
+    "img": "B12P38.jpg",
+    "layout": "umap",
+    "label": "Cluster 6 - Built Structures"
+  },
+  {
+    "images": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      20,
+      21,
+      22,
+      23,
+      36
+    ],
+    "img": "B12P02.jpg",
+    "layout": "umap",
+    "label": "Cluster 7 - Shrines and Offerings"
+  }
+]
